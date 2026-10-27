@@ -181,19 +181,3 @@ Should I reset the printer to fix a wireless connection problem?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Start with the network name, password, signal, and setup process. A network settings reset can help remove old connection details, but a full factory reset is usually unnecessary for initial troubleshooting.
-
-Have a Question About These Steps?
-----------------------------------
-
-Use the chat widget to describe your printer model, the message displayed, and where the WiFi setup stops. Do not share your WiFi password or other private information in chat.
-
-.. raw:: html
-
-   <script>
-   (function() {
-     var script = document.createElement('script');
-     script.src = 'https://code.jivosite.com/widget/cTI6R8IfQH';
-     script.async = true;
-     document.head.appendChild(script);
-   })();
-   </script>
